@@ -1,0 +1,35 @@
+{
+    "survival_metrics": {
+        "current_runway_days": 4,
+        "daily_burn_rate": 177.65,
+        "survival_state": "CRITICAL (Panic Mode)"
+    },
+    "income_profile": {
+        "income_type": "GIG/VARIABLE",
+        "income_volatility_score": 1.41,
+        "avg_income_per_credit": 7507.5,
+        "likely_payday_date": "Around day 1 of the month"
+    },
+    "recurring_commitments": {
+        "estimated_fixed_monthly_cost": 8000.0,
+        "fixed_vs_variable_ratio": 0.17,
+        "identified_recurring_items": [
+            "LOAN EMI"
+        ]
+    },
+    "spending_behavior": {
+        "major_spending_date": "Around day 2",
+        "money_retention_gap_days": 1.0,
+        "spending_velocity": "HIGH (Impulsive)"
+    },
+    "risk_assessment": {
+        "risk_level": "CRITICAL (Loan Sharks Detected)",
+        "cash_reliance_percent": 10.2,
+        "suspicious_loan_credits_count": 1
+    },
+    "growth_potential": {
+        "emergency_buffer_needed": 2664.75,
+        "investable_surplus": 0,
+        "investment_suggestion": "Keep saving."
+    }
+}

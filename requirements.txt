@@ -1,0 +1,23 @@
+# Core Framework (Allowing latest compatible versions)
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# Integrations (Allowing latest compatible versions)
+langchain-google-genai
+langchain-mcp-adapters
+mcp[cli]
+
+# Data & Utils
+pandas
+numpy
+python-dotenv
+pydantic
+uvicorn
+yfinance
+
+agno
+google-generativeai
+pandas
+python-dotenv
